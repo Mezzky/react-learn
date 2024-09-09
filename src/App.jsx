@@ -1,13 +1,14 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
+import Header from './Layout/Header'
+import Footer from './Layout/Footer'
 
 const App = () => {
   return (
-    <div>
-      <h1 className="text-3xl font-bold underline">
-        Hello world!
-      </h1>
-    </div>
+    <>
+      <Header/>
+      <Footer/>
+    </>
   )
 }
 
