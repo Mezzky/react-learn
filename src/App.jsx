@@ -5,7 +5,7 @@ import CardPages from './Pages/CardPages'
 const App = () => {
   return (
     <>
-      <Card/>
+      <Car/>
     </>
   )
 }
