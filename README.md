@@ -1,5 +1,5 @@
 # Learning ReactJS
 
-This r e p o sitory is about my Journey while Learning ReactJS for Frontend Development.
+This r e p o s itory is about my Journey while Learning ReactJS for Frontend Development.
 
 
