@@ -4,7 +4,7 @@ import Card from '../Components/Card'
 
 const CardLayout = () => {
   return (
-    <div className='grid grid-cols-3 gap-10'>
+    <div className='grid grid-cols-1 gap-10 tablet:grid-cols-2 laptop:grid-cols-3 laptop:gap-5'>
       <Card/>
       <Card/>
       <Card/>
