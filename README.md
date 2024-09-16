@@ -1,5 +1,5 @@
 # Learning ReactJS
 
-This r epository is about my Journey while Learning ReactJS for Frontend Development.
+This repository is about my Journey while Learning ReactJS for Frontend Development.
 
 
